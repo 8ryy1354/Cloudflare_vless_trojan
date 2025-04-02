@@ -96,7 +96,7 @@
 
 ---------------------------------
 
-## 优选域名、优选官方IP+反代IP一键脚本（在本地网络环境下利用termux或者ish运行）：
+## 优选官方IP+反代IP（在本地网络环境下利用termux或者ish运行）：
 
 1、安卓请使用termux官方项目下载客户端（谷歌商店下载的不可用！）：https://github.com/termux/termux-app/releases/tag/v0.118.1
 
